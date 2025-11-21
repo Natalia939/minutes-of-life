@@ -18,7 +18,11 @@ This project demonstrates skills in **date handling**, **error checking**, and *
 
 Clone the repository and install the required dependency:
 
-```bash
+## ▶️ How to Run  
 git clone https://github.com/Natalia939/minutes-of-life.git
 cd minutes-of-life
 pip install -r requirements.txt
+
+
+👩‍💻 Author: Nataliia Gvozdovska – Web Developer & Designer  
+Created on: February, 2025
